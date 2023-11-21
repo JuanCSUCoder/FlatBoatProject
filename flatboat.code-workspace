@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "flatboat-cli"
+    },
+    {
+      "path": "flatboat-images"
+    },
+    {
+      "path": "flatboat-templates"
+    },
+    {
+      "path": "."
+    }
+  ]
+}
