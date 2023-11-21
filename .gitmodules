@@ -1,0 +1,9 @@
+[submodule "flatboat-cli"]
+	path = flatboat-cli
+	url = https://github.com/JuanCSUCoder/flatboat-cli.git
+[submodule "flatboat-images"]
+	path = flatboat-images
+	url = https://github.com/JuanCSUCoder/flatboat-images.git
+[submodule "flatboat-templates"]
+	path = flatboat-templates
+	url = https://github.com/JuanCSUCoder/flatboat-templates.git
