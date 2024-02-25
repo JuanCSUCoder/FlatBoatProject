@@ -7,3 +7,6 @@
 [submodule "flatboat-templates"]
 	path = flatboat-templates
 	url = https://github.com/JuanCSUCoder/flatboat-templates.git
+[submodule "flatboat-brand"]
+	path = flatboat-brand
+	url = https://github.com/JuanCSUCoder/flatboat-brand.git
