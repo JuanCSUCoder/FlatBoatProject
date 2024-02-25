@@ -1,4 +1,4 @@
-# Flatboat
+# Flatboat Project
 
 ![Logo](https://github.com/JuanCSUCoder/flatboat-brand/blob/main/logo.png?raw=true)
 
