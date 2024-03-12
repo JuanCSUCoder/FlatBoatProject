@@ -10,3 +10,6 @@
 [submodule "flatboat-brand"]
 	path = flatboat-brand
 	url = https://github.com/JuanCSUCoder/flatboat-brand.git
+[submodule "flatboat-docs"]
+	path = flatboat-docs
+	url = https://github.com/JuanCSUCoder/flatboat-docs.git
