@@ -13,3 +13,6 @@
 [submodule "flatboat-docs"]
 	path = flatboat-docs
 	url = https://github.com/JuanCSUCoder/flatboat-docs.git
+[submodule "flatboat-operator"]
+	path = flatboat-operator
+	url = https://github.com/JuanCSUCoder/flatboat-operator.git
